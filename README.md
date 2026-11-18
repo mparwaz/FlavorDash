@@ -1,5 +1,3 @@
-# FlavorDash
-
 # FlavorDash 🍳
 
 FlavorDash is a modern, responsive React Native mobile application built for food enthusiasts, home cooks, and students looking for quick, delicious meal inspiration. Powered by a live third-party public API, the app allows users to search global recipes instantly, browse through categorized lists with rich imagery, and view step-by-step cooking instructions.
